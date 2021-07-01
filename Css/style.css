@@ -1,0 +1,8 @@
+.card__form{
+    display: flex;
+}
+.title{
+    background-color: grey;
+    color: hotpink;
+    align-content: center;
+}
